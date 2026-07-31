@@ -4,6 +4,9 @@ A Flutter news reader with a warm, editorial-style UI (serif headlines,
 amber accent, category-tinted cards), live REST API integration,
 pagination, search, category filtering, and offline bookmarking.
 
+<img width="1791" height="820" alt="image" src="https://github.com/user-attachments/assets/2722d085-4c23-4b9c-90f0-50e21dad2ac7" />
+
+
 ## ⚠️ Important — This folder ships `lib/` + config only
 
 This container has no Flutter SDK, so `android/`, `ios/`, `web/`, etc.
