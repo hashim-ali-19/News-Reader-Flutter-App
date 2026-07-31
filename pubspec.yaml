@@ -1,0 +1,49 @@
+name: news_reader_app
+description: "A beautifully designed Flutter News & Article Reader App with live API integration, offline bookmarking, search, and category filtering."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  # Networking
+  http: ^1.2.1
+
+  # State Management
+  provider: ^6.1.2
+
+  # Local Storage (offline bookmarks + feed caching)
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.2
+
+  # Connectivity check for offline mode
+  connectivity_plus: ^5.0.2
+
+  # UI polish
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+  intl: ^0.19.0
+
+  # Bonus features
+  share_plus: ^7.2.2
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Uncomment and add image assets if you include an app icon / splash image
+  # assets:
+  #   - assets/
