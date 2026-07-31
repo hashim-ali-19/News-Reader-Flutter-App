@@ -3,9 +3,12 @@
 A Flutter news reader with a warm, editorial-style UI (serif headlines,
 amber accent, category-tinted cards), live REST API integration,
 pagination, search, category filtering, and offline bookmarking.
-
+# Loop — Home (Dark Mode)
 <img width="1791" height="820" alt="image" src="https://github.com/user-attachments/assets/2722d085-4c23-4b9c-90f0-50e21dad2ac7" />
-
+# Loop — Home (Light Mode)
+<img width="896" height="413" alt="image" src="https://github.com/user-attachments/assets/488b13fb-98dd-4dd4-bf70-9d81b6e9149b" />
+# Loop — Saved Feature (Light Mode)
+<img width="895" height="409" alt="image" src="https://github.com/user-attachments/assets/5cb00231-455d-4786-8208-a845b289bc63" />
 
 ## ⚠️ Important — This folder ships `lib/` + config only
 
